@@ -1,4 +1,4 @@
 _site
 .env
-/Gemfile.lock
+/*/Gemfile.lock*/
 mkmf.log
